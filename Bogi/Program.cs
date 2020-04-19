@@ -8,6 +8,7 @@ namespace Bogi
         {
             Console.WriteLine("Početak je težak!");
             Console.WriteLine("Pa i nije.");
+            Console.WriteLine("ILI?");
 
             Console.ReadLine();
         }
